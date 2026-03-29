@@ -1,0 +1,73 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "The Letters of Charlotte Mary Yonge"
+  subtitle: "Test Collection - 49 Letters"
+  author: "Charlotte Mary Yonge"
+  date: today
+  chapters:
+    - index.qmd
+    - part: "Letters"
+      chapters:
+        - letters/3370_To_Helena_Mary_Heathcote.md
+        - letters/3371_To_Beatrice_Henrietta_Heathcote.md
+        - letters/3372_To_Frederick_Orridge_Macmillan_.md
+        - letters/3373_To_Catharine_Elgie.md
+        - letters/3374_To_Misey_.md
+        - letters/3375_To_Frederick_Orridge_Macmillan.md
+        - letters/3376_To_Frederick_Orridge_Macmillan.md
+        - letters/3377_To_Frederick_Orridge_Macmillan_or_Alexander_Macmillan_Jr.md
+        - letters/3378_To_Frederick_Orridge_Macmillan.md
+        - letters/3379_To_Frederick_Orridge_Macmillan.md
+        - letters/3380_To_Marianne_Bigg_Wither.md
+        - letters/3381_To_the_Countess_of_Glasgow.md
+        - letters/3382_To_Frederick_Orridge_Macmillan.md
+        - letters/3383_To_Anna_Meredith_Barrett_Lennard.md
+        - letters/3385_To_Mary_Yonge.md
+        - letters/3386_To_Christabel_Rose_Coleridge.md
+        - letters/3387_To_an_Unknown_Woman.md
+        - letters/3388_To_Christabel_Rose_Coleridge.md
+        - letters/3389_To_Anna_Meredith_Barrett_Lennard.md
+        - letters/3390_To_an_Unknown_Person.md
+        - letters/3391_To_Frederick_Orridge_Macmillan.md
+        - letters/3392_To_the_Reverend_John_Frederick_Watkinson_Bullock.md
+        - letters/3393_To_Mary_Yonge.md
+        - letters/3394_To_Sir_Walter_Besant.md
+        - letters/3395_To_Sir_Walter_Besant.md
+        - letters/3396_To_Mary_Elizabeth_Sumner.md
+        - letters/3397_To_Matthew_R_Bigge.md
+        - letters/3398_To_Frederick_Orridge_Macmillan.md
+        - letters/3399_To_Marianne_Bigg_Wither.md
+        - letters/3400_To_Frederick_Orridge_Macmillan.md
+        - letters/3401_To_the_Reverend_John_Frewen_Moor.md
+        - letters/3402_To_the_Marchioness_of_Salisbury.md
+        - letters/3403_To_Mary_Caroline_Butler.md
+        - letters/3404_To_Mary_Yonge.md
+        - letters/3405_To_Penelope_Anne_Laura_Packe.md
+        - letters/3406_To_Lady_Leconfield.md
+        - letters/3407_To_Lady_Leconfield.md
+        - letters/3408_To_Mary_Yonge.md
+        - letters/3409_To_Mary_Yonge.md
+        - letters/3410_To_Margaret_Jane_Mowbray.md
+        - letters/3411_To_Charlotte_Fortescue_Yonge.md
+        - letters/3412_To_Christabel_Rose_Coleridge.md
+        - letters/3413_To_Helena_Mary_Heathcote.md
+        - letters/3414_To_Elizabeth_Harcourt_Mitchell.md
+        - letters/3415_To_Christabel_Rose_Coleridge.md
+        - letters/3416_To_Christabel_Rose_Coleridge.md
+        - letters/3417_To_Mrs_Swinton.md
+        - letters/3418_To_Christabel_Rose_Coleridge.md
+        - letters/3420_To_Christabel_Rose_Coleridge.md
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+  epub:
+    toc: true
+    toc-depth: 2
+  pdf:
+    documentclass: book
+    toc: true

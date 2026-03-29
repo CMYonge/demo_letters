@@ -1,0 +1,17 @@
+---
+title: "To Mrs Swinton, Sunday Aug 13th [1899[[footnote:1]]]"
+date: "Sunday Aug 13th [1899[[footnote:1]]]"
+manuscript: "MS Princeton University, Parrish Collection"
+post_id: 3417
+---
+
+'
+
+My dear [Mrs Swinton (Swinton)](../people/1388.html) Thank you once more for the Waterloo letters which I have read with the greatest pleasure.[^2] They bring it close to us, just as did [Lord Seaton (John Colborne)](../people/313.html) and [my father (William Crawley Yonge)](../people/1631.html) talking it over. I rather wonder to see the Prince of Orange such a favourite but probably he was very different to young girls from what he was to Lord Seaton who was his 'bear leader' for some time
+
+Yours sincerely C M Yonge
+
+---
+
+[^1]: The 13 August also fell on a Sunday in 1882 and 1893.
+[^2]: The reference might be to <i>*Waterloo letters. A selection from original and hitherto unpublished letters bearing on the operations of the 16th, 17th, and 18th June 1815, by officers who served in the campaign*</i> ed. Major-Gen. H.T. Siborne, R.E. (London: Cassell 1891) or to <i>*Letters and journals of Field-Marshal Sir William Maynard Gomm from 1799 to Waterloo, 1815*</i> (London: Murray 1881), the latter of which includes some favourable references to William (1792 -1849), prince of Orange and later King of the Netherlands, whose military secretary during the Waterloo campaign was CMY’s step-uncle John Colborne, later 1st Lord Seaton.

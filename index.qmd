@@ -1,0 +1,39 @@
+---
+title: "Introduction"
+---
+
+## About This Collection
+
+This test collection contains 49 letters written by Charlotte Mary Yonge (1823-1901), Victorian novelist, editor, and prolific correspondent.
+
+### About Charlotte Mary Yonge
+
+Charlotte Mary Yonge was one of the most popular and influential writers of the Victorian era. Author of over 160 works, including novels, textbooks, and historical writings, she is perhaps best known for *The Heir of Redclyffe* (1853) and *The Daisy Chain* (1856).
+
+### About These Letters
+
+These letters showcase Yonge's correspondence with publishers, family members, and fellow writers. They provide insight into:
+
+- Victorian publishing practices
+- Literary networks of the period
+- Yonge's writing process and methods
+- Her editorial work on *The Monthly Packet*
+- Family and social life in Victorian England
+
+### Navigation
+
+This ebook is organized chronologically by letter date. Each letter includes:
+
+- **Title** showing recipient and date
+- **Metadata** including location and manuscript source
+- **Cross-references** to people, organizations, and books mentioned
+- **Footnotes** providing historical context
+
+### Note on Cross-References
+
+Links to people, organizations, and bibliography pages are included but may not function in all ebook readers. These are designed primarily for the web version of this collection.
+
+---
+
+*This is a test collection created to verify the conversion process before publishing the complete collection of approximately 1,900 letters.*
+

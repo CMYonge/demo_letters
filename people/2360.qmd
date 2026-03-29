@@ -1,0 +1,21 @@
+---
+title: "Jane Harper"
+---
+
+## Jane Harper
+
+### Description
+
+friend of Gertrude Walter
+
+### Biography
+
+Mother of two children.
+
+### Letters
+
+- Letter from Easter day [5 April 1885]
+
+---
+
+[← Back to all letters](../letters.html)

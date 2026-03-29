@@ -1,0 +1,17 @@
+---
+title: "Cherry"
+---
+
+## Cherry
+
+### Description
+
+an unidentified member of the Gosling Society
+
+### Letters
+
+- Letter from Jan 1st [1872]
+
+---
+
+[← Back to all letters](../letters.html)
